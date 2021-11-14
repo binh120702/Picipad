@@ -1,0 +1,24 @@
+{
+  "keyboard_name": "Picipad", 
+  "url": "https://github.com/binh120702", 
+  "maintainer": "qmk", 
+  "layouts": {
+      "LAYOUT": {
+          "layout": [
+            {"label":"0", "x":1, "y":0}, 
+
+            {"label":"1", "x":0, "y":1}, 
+            {"label":"2", "x":1, "y":1}, 
+            {"label":"3", "x":2, "y":1}, 
+
+            {"label":"4", "x":0, "y":2}, 
+            {"label":"5", "x":1, "y":2}, 
+            {"label":"6", "x":2, "y":2}, 
+
+            {"label":"7", "x":0, "y":3}, 
+            {"label":"8", "x":1, "y":3}, 
+            {"label":"9", "x":2, "y":3}
+          ]
+      }
+  }
+}
