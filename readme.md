@@ -13,4 +13,4 @@ Hi! I'm Phan dapici, this time i learned some stuff about arduino especially in 
 - Switches, keycaps and wires ofc 🤓
 
 # First Keyboard
-![Product 1.0][/images/product1.0.jpg]
+![Product 1.0](/images/product1.0.jpg)
